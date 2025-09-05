@@ -1,0 +1,45 @@
+# MySQL database directory 
+database/
+
+
+# Database dumps
+*.dump
+*dump.sql
+backup.sql
+*.backup
+
+# Log files
+*.log
+mysql.log
+error.log
+slow.log
+general.log
+binary.log
+relay.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python 
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# MySQL Workbench files
+*.mwb.bak
